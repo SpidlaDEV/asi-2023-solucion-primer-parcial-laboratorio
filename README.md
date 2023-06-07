@@ -1,4 +1,4 @@
-![](https://uncaus.edu.ar/images/isologo-uncaus-transparente500.png)
+![](![image](https://github.com/SpidlaDEV/asi-2023-solucion-primer-parcial-laboratorio/assets/95778178/713246fb-7989-4480-b3c4-0990ace25b1d))
 
 # Análisis de Sistemas 2023 - Apoyo de clases
 ### Solución al primer Parcial de Laboratorio
