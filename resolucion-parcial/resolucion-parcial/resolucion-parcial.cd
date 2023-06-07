@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="resolucion_parcial.MainForm" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.236837" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="resolucion_parcial.Persona" Collapsed="False">
+    <Position X="0.5" Y="9.9" Width="1.422204" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="resolucion_parcial.Fecha" Collapsed="False">
+    <Position X="0.5" Y="12" Width="1.284811" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="resolucion_parcial.Libro" Collapsed="False">
+    <Position X="0.5" Y="14.3" Width="2.103205" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="resolucion_parcial.Lugar" Collapsed="False">
+    <Position X="0.5" Y="18.7" Width="2.355915" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="resolucion_parcial.Program" Collapsed="False">
+    <Position X="0.5" Y="20.6" Width="1.444186" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

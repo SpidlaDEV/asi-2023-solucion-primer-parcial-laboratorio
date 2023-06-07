@@ -1,0 +1,7 @@
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\obj\Debug\resolucion-parcial.csprojResolveAssemblyReference.cache
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\bin\Debug\resolucion-parcial.exe
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\bin\Debug\resolucion-parcial.pdb
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\obj\Debug\resolucion-parcial.exe
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\obj\Debug\resolucion-parcial.pdb
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\obj\Debug\resolucion_parcial.MainForm.resources
+D:\Documentos\Ingeniería en Sistemas de Información\ASI 2023\Resolucion Parcial\resolucion-parcial\resolucion-parcial\obj\Debug\resolucion-parcial.csproj.GenerateResource.Cache
