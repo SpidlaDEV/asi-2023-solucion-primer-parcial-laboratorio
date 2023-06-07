@@ -1,4 +1,4 @@
-![](![image](https://github.com/SpidlaDEV/asi-2023-solucion-primer-parcial-laboratorio/assets/95778178/713246fb-7989-4480-b3c4-0990ace25b1d))
+![](![image]([https://github.com/SpidlaDEV/asi-2023-solucion-primer-parcial-laboratorio/assets/95778178/713246fb-7989-4480-b3c4-0990ace25b1d](https://tusitioweblisto.online/wp-content/uploads/2022/08/logo-uncaus.jpeg)))
 
 # Análisis de Sistemas 2023 - Apoyo de clases
 ### Solución al primer Parcial de Laboratorio
